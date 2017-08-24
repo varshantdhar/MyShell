@@ -1,0 +1,11 @@
+ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1 >+ advancedRedirection_rd_9 
+ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1 >+ advancedRedirection_rd_9
+ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1>+./afolderdoesnotexist/advancedRedirection_rd_10
+>+
+>+ 
+	>+
+ >+ 
+ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1 >+ >+ advancedRedirection_rd_11
+ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1 >+ advancedRedirection_rd_12 >+
+ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1 advancedRedirection_rd_13 >+
+exit
